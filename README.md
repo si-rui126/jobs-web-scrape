@@ -1,0 +1,1 @@
+Web scraping data from Indeed job postings. I plan to use this data for analysis to draw insights on what effect factors like location and employment type (on-site, hybrid, remote) have on the salary.
